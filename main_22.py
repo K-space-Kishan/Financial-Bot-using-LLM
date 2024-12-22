@@ -3,7 +3,6 @@ from langchain.vectorstores import FAISS
 import os
 import streamlit as st
 import pickle
-import time
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
